@@ -9,6 +9,7 @@ public class Insumos {
     private int[] precios = {45000, 22000, 34550, 34560};
     private int[] adicional = {2250, 1100, 1720, 1730};
     private int stock;
+    int d = 0;
 
     public Insumos(){
 
